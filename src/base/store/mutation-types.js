@@ -1,0 +1,7 @@
+export const RECORD_USERINFO='RECORD_USERINFO'
+export const RECODE_GAMEINFO='RECODE_GAMEINFO'
+export const SHOW_LUZI='SHOW_LUZI'
+export const SHOW_CHANGLONG='SHOW_CHANGLONG'
+export const DOMAI_IFO='DOMAI_IFO'
+export const GAME_LIST='GAME_LIST'
+
